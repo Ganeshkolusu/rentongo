@@ -1,0 +1,3405 @@
+{
+  "bikeBrands": [
+    "AJS",
+    "Amazonas",
+    "Ampere Magnus EX",
+    "Ampere Magnus Grand",
+    "Ampere Magnus Neo",
+    "Ampere Nexus",
+    "Ampere Primus",
+    "Ampere Reo",
+    "Ampere Reo Li Plus",
+    "Ampere V48",
+    "Ampere Zeal",
+    "Ampere Zeal EX",
+    "Aprilia",
+    "Ariel",
+    "Ather 450",
+    "Ather 450 Apex",
+    "Ather 450X Gen3",
+    "Ather Energy",
+    "Ather Rizta S",
+    "Ather Rizta Z",
+    "BMW C 400 GT",
+    "BMW C 600 Sport",
+    "BMW C 650 GT",
+    "BMW F 800 GT",
+    "BMW F 800 R",
+    "BMW G 310 R",
+    "BMW K 1600 GTL",
+    "BMW R 1250 GS",
+    "BMW R 18 Transcontinental",
+    "BMW S 1000 RR",
+    "Bajaj Avenger 160 Street",
+    "Bajaj Avenger 180",
+    "Bajaj Avenger 220 Cruise",
+    "Bajaj Boxer 100",
+    "Bajaj CT 100",
+    "Bajaj Chetak (Classic Petrol)",
+    "Bajaj Chetak Electric",
+    "Bajaj Chetak Premium",
+    "Bajaj Chetak Urbane",
+    "Bajaj Discover 100",
+    "Bajaj Discover 125",
+    "Bajaj Discover 135",
+    "Bajaj Dominar 250",
+    "Bajaj Dominar 400",
+    "Bajaj Freedom 125 (manual gear)",
+    "Bajaj Kristal",
+    "Bajaj Platina 100",
+    "Bajaj Platina 110",
+    "Bajaj Platina 110 H-Gear",
+    "Bajaj Priya",
+    "Bajaj Pulsar 125",
+    "Bajaj Pulsar 150",
+    "Bajaj Pulsar 180",
+    "Bajaj Pulsar 180F",
+    "Bajaj Pulsar 220 / 220F",
+    "Bajaj Pulsar N125",
+    "Bajaj Pulsar N150",
+    "Bajaj Pulsar N160",
+    "Bajaj Pulsar N250",
+    "Bajaj Pulsar NS125",
+    "Bajaj Pulsar NS160",
+    "Bajaj Pulsar NS200",
+    "Bajaj Pulsar NS250",
+    "Bajaj Pulsar NS400Z",
+    "Bajaj Pulsar RS200",
+    "Bajaj Spirit",
+    "Bajaj Sunny",
+    "Bajaj Super",
+    "Bajaj Wave",
+    "Benelli",
+    "Bimota",
+    "Bridgestone 100 GP",
+    "Bridgestone 100 Sport",
+    "Bridgestone 100 TMX",
+    "Bridgestone 100 Trail",
+    "Bridgestone 125 TMX",
+    "Bridgestone 175 Dual Twin",
+    "Bridgestone 175 GP",
+    "Bridgestone 175 Hurricane Scrambler",
+    "Bridgestone 175 SR",
+    "Bridgestone 175 TMX",
+    "Bridgestone 200 Dual Twin",
+    "Bridgestone 250 Racer Prototype",
+    "Bridgestone 350 GP",
+    "Bridgestone 350 GTO",
+    "Bridgestone 350 GTR",
+    "Bridgestone 50 Deluxe",
+    "Bridgestone 50 GP",
+    "Bridgestone 50 Hurricane",
+    "Bridgestone 50 MK II",
+    "Bridgestone 50 Sport",
+    "Bridgestone 60 Racer",
+    "Bridgestone 60 Sport",
+    "Bridgestone 60 Trail",
+    "Bridgestone 7S",
+    "Bridgestone 8A",
+    "Bridgestone 90 Sport",
+    "Bridgestone BS175",
+    "Bridgestone BS350",
+    "Bridgestone BS90 Deluxe",
+    "Bridgestone BS90 Trail",
+    "Bultaco",
+    "CFMoto",
+    "Cagiva",
+    "Cake",
+    "Can-Am",
+    "DKW 125 Motocross",
+    "DKW Block 200",
+    "DKW KS 200",
+    "DKW Luxus 300",
+    "DKW NZ 350",
+    "DKW NZ 500",
+    "DKW RT 100",
+    "DKW RT 125",
+    "DKW RT 175",
+    "DKW SM 175",
+    "DKW SS 350",
+    "Daelim",
+    "Dafra",
+    "Damon Motors",
+    "Derbi",
+    "Dnepr",
+    "Ducati",
+    "Energica",
+    "Fantic Motor",
+    "GASGAS",
+    "GESITS",
+    "GPX Racing",
+    "Gogoro",
+    "Hero Destini 110",
+    "Hero Destini 125",
+    "Hero Destini Prime",
+    "Hero Glamour X 125",
+    "Hero HF Deluxe",
+    "Hero Karizma XMR",
+    "Hero Passion Plus",
+    "Hero Pleasure +",
+    "Hero Splendor Plus",
+    "Hero Super Splendor Xtec",
+    "Hero XPulse 200 4V",
+    "Hero Xoom 110",
+    "Hero Xoom 125",
+    "Hero Xoom 160",
+    "Hero Xtreme 125R",
+    "Hero Xtreme 160R",
+    "Hero Xtreme 250R",
+    "Honda Activa 125",
+    "Honda Activa 3G",
+    "Honda Activa 4G",
+    "Honda Activa 5G",
+    "Honda Activa 6G",
+    "Honda Benly",
+    "Honda CB 125 Hornet",
+    "Honda CB 350",
+    "Honda CB 350RS",
+    "Honda CB1100",
+    "Honda CB1300 Super Four",
+    "Honda CB223S",
+    "Honda CB350",
+    "Honda CB350C Special Edition",
+    "Honda CB400 Super Four",
+    "Honda CB500X",
+    "Honda CB650R",
+    "Honda CBR125R",
+    "Honda CBR250R",
+    "Honda CBR400R",
+    "Honda CD 110 Dream",
+    "Honda DN-01",
+    "Honda Dax",
+    "Honda Dio",
+    "Honda Dio 125",
+    "Honda Dream 50",
+    "Honda Dream CB250",
+    "Honda GB250 Clubman",
+    "Honda Gold Wing",
+    "Honda Grom",
+    "Honda Hornet 2.0",
+    "Honda Livo",
+    "Honda Monkey",
+    "Honda NR750",
+    "Honda NT1100",
+    "Honda RC213V-S",
+    "Honda Rebel 250",
+    "Honda SP 125",
+    "Honda SP 160",
+    "Honda Shine",
+    "Honda Shine 100",
+    "Honda Super Cub",
+    "Honda Unicorn",
+    "Honda Valkyrie",
+    "Horex 644 Osca",
+    "Horex Imperator 400",
+    "Horex Regina",
+    "Horex Regina Evo",
+    "Horex Resident",
+    "Horex Resident 350",
+    "Horex VR6 Black Edition",
+    "Horex VR6 Café Racer",
+    "Horex VR6 Classic",
+    "Horex VR6 Roadster",
+    "Horex VR6 Silver Edition",
+    "Husqvarna",
+    "Hyosung",
+    "IMZ-Ural",
+    "Italjet",
+    "Jawa 125 Type 351",
+    "Jawa 125 Type 355",
+    "Jawa 175 Type 356",
+    "Jawa 250 Type 559",
+    "Jawa 250 Type 590",
+    "Jawa 350 OHC Bobber",
+    "Jawa 350 OHC Special",
+    "Jawa 350 Pionyr",
+    "Jawa 350 Type 360",
+    "Jawa 350 Type 632",
+    "Jawa 350 Type 639",
+    "Jawa 350 Type 640 Retro",
+    "Jawa 50 Mustang",
+    "Jawa 50 Trail",
+    "Jawa 660 Dakar",
+    "Jawa 660 Vintage ABS",
+    "Jawa Bizon",
+    "Jawa Minor",
+    "Jawa Robot",
+    "Jawa Tramp",
+    "KTM",
+    "Kawasaki",
+    "Kinetic Blaze",
+    "Kinetic DX EV",
+    "Kinetic GF125",
+    "Kinetic Green E-Luna",
+    "Kinetic Green Zing",
+    "Kinetic Green Zulu",
+    "Kinetic Nova 135",
+    "Kinetic Y2K",
+    "Kinetic Zoom",
+    "Kymco",
+    "LML Adreno FX",
+    "LML Energy FX",
+    "LML Freedom 110",
+    "LML Freedom 125 DX",
+    "LML Graptor",
+    "LML Moonshot",
+    "LML NV 150",
+    "LML NV Spl",
+    "LML NV T5",
+    "LML Orion",
+    "LML Select 2",
+    "LML Select 4",
+    "LML Sensation",
+    "LML Star 150",
+    "LML Star Deluxe",
+    "LML Star Deluxe Export",
+    "LML Star Electric",
+    "LML Star Euro 150 4T",
+    "LML Supremo",
+    "LML Vespa PX 150",
+    "Lambretta",
+    "Lifan",
+    "Lightning Motorcycles",
+    "Lilac CS-28",
+    "Lilac KD",
+    "Lilac KH",
+    "Lilac LB",
+    "Lilac LS-18",
+    "Lilac ML",
+    "Lilac Magnum",
+    "Lilac ST",
+    "Lilac SY",
+    "Lilac UY",
+    "LiveWire",
+    "Loncin",
+    "MBK",
+    "MV Agusta",
+    "MZ 1000S",
+    "MZ 125",
+    "MZ Baghira 660",
+    "MZ Classic 125",
+    "MZ Classic 300",
+    "MZ ES 150",
+    "MZ ETZ 250",
+    "MZ ETZ 251",
+    "MZ Fun 300",
+    "MZ RT 125",
+    "MZ SM 125",
+    "MZ Saxon 500 Tour",
+    "MZ Skorpion",
+    "MZ TS 250",
+    "Mahindra Duro DZ 125",
+    "Mahindra Gusto 110",
+    "Mahindra Kine 70",
+    "Mahindra Mojo XT300",
+    "Mahindra Pantero",
+    "Mahindra Rodeo 125",
+    "Malaguti",
+    "Meguro A",
+    "Meguro B",
+    "Meguro C",
+    "Meguro J1 Junior",
+    "Meguro J2 Junior",
+    "Meguro J3 / J3A",
+    "Meguro K1 Stamina",
+    "Meguro K2 Stamina",
+    "Meguro K3",
+    "Meguro R1 Police",
+    "Meguro S",
+    "Meguro S1",
+    "Meguro S2 Junior",
+    "Meguro S3 Junior",
+    "Meguro S4 Junior",
+    "Meguro S5 Junior",
+    "Meguro T1 Senior",
+    "Meguro T2 Senior",
+    "Meguro X1",
+    "Meguro Y2 Rex",
+    "Meguro Z1",
+    "Meguro Z2",
+    "Meguro Z3",
+    "Meguro Z4",
+    "Meguro Z5",
+    "Meguro Z6",
+    "Meguro Z7 Stamina",
+    "Meguro Z97",
+    "Meguro Z98",
+    "Moto Guzzi",
+    "Motus",
+    "NIU",
+    "NSU 201 OSL",
+    "NSU 201 TS",
+    "NSU 351 OSL",
+    "NSU 501 OSL",
+    "NSU Fox",
+    "NSU Konsul II",
+    "NSU Max 175",
+    "NSU Quick 50",
+    "NSU Quickly",
+    "NSU Sportmax",
+    "OSSA",
+    "Oben O100 Series",
+    "Oben Rorr",
+    "Oben Rorr EZ",
+    "Oben Rorr EZ Sigma",
+    "Okinawa Dual",
+    "Okinawa Lite",
+    "Okinawa OKHI-90",
+    "Okinawa Praise Pro",
+    "Okinawa R30",
+    "Okinawa Ridge",
+    "Okinawa Ridge+",
+    "Okinawa iPraise+",
+    "Ola Electric",
+    "Ola Gig",
+    "Ola Roadster",
+    "Ola Roadster X",
+    "Ola Roadster X+",
+    "Ola S1 Air",
+    "Ola S1 Pro",
+    "Ola S1 X",
+    "Ola S1 X+",
+    "Ola S1 Z",
+    "PURE EV ETrance Neo",
+    "PURE EV ETryst 350",
+    "PURE EV Epluto 7G",
+    "PURE EV Epluto 7G Max",
+    "PURE EV ecoDryft",
+    "Peugeot Motocycles",
+    "QJMotor",
+    "Quadro Vehicles",
+    "Quantya",
+    "Revolt Motors",
+    "Revolt RV BlazeX",
+    "Revolt RV1",
+    "Revolt RV1+",
+    "Revolt RV300",
+    "Revolt RV400",
+    "Revolt RV400 BRZ",
+    "Rieju",
+    "Royal Enfield",
+    "Royal Enfield Bullet 350",
+    "Royal Enfield Classic 350",
+    "Royal Enfield Classic 650",
+    "Royal Enfield Continental GT 650",
+    "Royal Enfield Goan Classic 350",
+    "Royal Enfield Guerrilla 450",
+    "Royal Enfield Himalayan 450",
+    "Royal Enfield Hunter 350",
+    "Royal Enfield Interceptor 650",
+    "Royal Enfield Meteor 350",
+    "Royal Enfield Shotgun 650",
+    "Royal Enfield Super Meteor 650",
+    "SUNRA",
+    "SYM",
+    "Savic",
+    "Stallions",
+    "Suzuki Access 125",
+    "Suzuki Access 125 (1st Gen)",
+    "Suzuki Access 125 BS6",
+    "Suzuki Access 125 Bluetooth",
+    "Suzuki Access 125 SE",
+    "Suzuki Address",
+    "Suzuki Avenis 125",
+    "Suzuki Avenis 125 (2022)",
+    "Suzuki Burgman 200",
+    "Suzuki Burgman 400",
+    "Suzuki Burgman Electric",
+    "Suzuki Burgman Street 125",
+    "Suzuki Burgman Street 125 (2018)",
+    "Suzuki Burgman Street EX",
+    "Suzuki Colleda",
+    "Suzuki DR-Z400S",
+    "Suzuki Fiero",
+    "Suzuki Fiero FX",
+    "Suzuki GS1000",
+    "Suzuki GS150R",
+    "Suzuki GS400",
+    "Suzuki GS750",
+    "Suzuki GSX-8R",
+    "Suzuki GSX-R1000",
+    "Suzuki GSX-R125",
+    "Suzuki GSX-R600",
+    "Suzuki GSX-R750",
+    "Suzuki GSX-S1000",
+    "Suzuki GSX-S125",
+    "Suzuki GSX-S750",
+    "Suzuki GSX1100S Katana",
+    "Suzuki GSX250R",
+    "Suzuki GT250",
+    "Suzuki GT380",
+    "Suzuki GT550",
+    "Suzuki GT750",
+    "Suzuki Gixxer",
+    "Suzuki Gixxer 250",
+    "Suzuki Gixxer SF",
+    "Suzuki Gixxer SF 250",
+    "Suzuki Gladius 650",
+    "Suzuki Hayabusa",
+    "Suzuki Hayate",
+    "Suzuki Heat",
+    "Suzuki Heat Scooter (concept)",
+    "Suzuki Hustler 90",
+    "Suzuki Inazuma 250",
+    "Suzuki Intruder 150",
+    "Suzuki Katana",
+    "Suzuki Let's",
+    "Suzuki Let's (2014 Version)",
+    "Suzuki Power Free",
+    "Suzuki RM-Z450",
+    "Suzuki SV650",
+    "Suzuki Samurai",
+    "Suzuki Shaolin",
+    "Suzuki Shogun",
+    "Suzuki SkyDrive 125",
+    "Suzuki Slingshot",
+    "Suzuki Step 125",
+    "Suzuki Swish 110",
+    "Suzuki Swish 125",
+    "Suzuki Swish 125 (1st Gen)",
+    "Suzuki T20",
+    "Suzuki V-Strom 1050",
+    "Suzuki V-Strom 250",
+    "Suzuki V-Strom 650",
+    "Suzuki V-Strom 800DE",
+    "Suzuki V-Strom SX",
+    "Suzuki Zeus",
+    "Suzuki Zeus Scooter Concept",
+    "TVS Apache RR 310",
+    "TVS Apache RTR 160",
+    "TVS Apache RTR 160 4V",
+    "TVS Apache RTR 180",
+    "TVS Apache RTR 200 4V",
+    "TVS Jupiter",
+    "TVS Jupiter 125",
+    "TVS Ntorq 125",
+    "TVS Radeon",
+    "TVS Raider 125",
+    "TVS Ronin",
+    "TVS Scooty Pep Plus",
+    "TVS Sport",
+    "TVS Star City Plus",
+    "TVS Zest 110",
+    "Tohatsu 125 GP",
+    "Tohatsu 125 Racer",
+    "Tohatsu 125 Runpet",
+    "Tohatsu 125 Scooter",
+    "Tohatsu 125 Sport",
+    "Tohatsu 150 Deluxe",
+    "Tohatsu 150 Sport",
+    "Tohatsu 175 Scooter",
+    "Tohatsu 175 Twin",
+    "Tohatsu 200 Clubman",
+    "Tohatsu 200 GP",
+    "Tohatsu 200 Racer",
+    "Tohatsu 250 Clubman",
+    "Tohatsu 250 GP",
+    "Tohatsu 250 Racer",
+    "Tohatsu 250 Runpet",
+    "Tohatsu 250 Sports Twin",
+    "Tohatsu 250 Twin",
+    "Tohatsu 50 GP",
+    "Tohatsu 60 Runpet Racer",
+    "Tohatsu 60 Super Sports",
+    "Tohatsu 90 Sport",
+    "Tohatsu Runpet",
+    "Tohatsu Runpet Deluxe",
+    "Tohatsu Runpet Sport 60",
+    "Tohatsu Runpet Sports",
+    "Tohatsu Runpet Super",
+    "Tohatsu Runpet Super Sports",
+    "Tohatsu Runpet Trail",
+    "Tork Kratos",
+    "Tork Kratos R",
+    "Tork Kratos R Urban",
+    "Tork T6X",
+    "Triumph",
+    "Ultraviolette",
+    "Ultraviolette F77",
+    "Ultraviolette F77 Mach 2",
+    "Ultraviolette F77 SuperStreet",
+    "Ultraviolette F99",
+    "Ultraviolette Shockwave",
+    "Ultraviolette Tesseract",
+    "Ultraviolette X47",
+    "Ultraviolette X47 Crossover",
+    "Ural",
+    "Verge Motorcycles",
+    "Viar",
+    "Voxan",
+    "Wanderer",
+    "YADEA",
+    "Yadea",
+    "Yamaha Aerox 155",
+    "Yamaha Alpha",
+    "Yamaha BW'S",
+    "Yamaha Bolt",
+    "Yamaha Crux",
+    "Yamaha Cygnus Ray Z",
+    "Yamaha Cygnus Ray ZR",
+    "Yamaha Enticer",
+    "Yamaha FJR1300",
+    "Yamaha FZ-S",
+    "Yamaha FZ-S FI V2",
+    "Yamaha FZ-S FI V3",
+    "Yamaha FZ-X",
+    "Yamaha FZ-X Hybrid",
+    "Yamaha FZ16",
+    "Yamaha FZ25",
+    "Yamaha FZS-FI V4",
+    "Yamaha Fascino 125",
+    "Yamaha Fazer 150",
+    "Yamaha Fazer 25",
+    "Yamaha Gladiator",
+    "Yamaha Jog",
+    "Yamaha Libero",
+    "Yamaha MT-03",
+    "Yamaha MT-07",
+    "Yamaha MT-09",
+    "Yamaha MT-10",
+    "Yamaha MT-15 V1",
+    "Yamaha MT-15 V2",
+    "Yamaha Majesty",
+    "Yamaha NMAX",
+    "Yamaha Neo's",
+    "Yamaha R15 V1",
+    "Yamaha R15 V2",
+    "Yamaha R15 V3",
+    "Yamaha R15 V4",
+    "Yamaha R15M",
+    "Yamaha R3",
+    "Yamaha RD350",
+    "Yamaha RX100",
+    "Yamaha RX135",
+    "Yamaha RXG",
+    "Yamaha RXZ",
+    "Yamaha RZ350",
+    "Yamaha Ray 125",
+    "Yamaha Ray ZR 125",
+    "Yamaha Ray ZR Street Rally 125",
+    "Yamaha SR400",
+    "Yamaha SR500",
+    "Yamaha SS125",
+    "Yamaha SZ-R",
+    "Yamaha SZ-RR",
+    "Yamaha TMAX",
+    "Yamaha Tenere 700",
+    "Yamaha Tracer 700",
+    "Yamaha Tracer 900",
+    "Yamaha VMAX",
+    "Yamaha XMAX",
+    "Yamaha XSR700",
+    "Yamaha XSR900",
+    "Yamaha XT250 Serow",
+    "Yamaha YA-1",
+    "Yamaha YDS-1",
+    "Yamaha YZF-R1",
+    "Yamaha YZF-R15",
+    "Yamaha YZF-R25",
+    "Yamaha YZF-R3",
+    "Yamaha YZF-R6",
+    "Yamaha YZF-R7",
+    "Yezdi 175 Roadking Junior",
+    "Yezdi 250 Constellation",
+    "Yezdi 250 Enduro",
+    "Yezdi 250 Rally",
+    "Yezdi 250 Safari",
+    "Yezdi 250 Sport",
+    "Yezdi 250 Twinport Racer",
+    "Yezdi 250 bike B",
+    "Yezdi 250 bike C",
+    "Yezdi Adventure Rally Spec",
+    "Yezdi Bobber Dark Series",
+    "Yezdi Classic 250 Export",
+    "Yezdi Colt",
+    "Yezdi Deluxe 250",
+    "Yezdi Roadking GP",
+    "Yezdi Roadster Chrome Edition",
+    "Yezdi Scrambler 250 (Classic)",
+    "Yezdi Scrambler Midnight Blue",
+    "Yezdi Trail",
+    "Yezdi Type D",
+    "Zero Motorcycles",
+    "Zongshen",
+    "Zündapp 200 S",
+    "Zündapp 250 S Trophy",
+    "Zündapp 448",
+    "Zündapp GTS 50",
+    "Zündapp K 80",
+    "Zündapp KS 175",
+    "Zündapp KS 80",
+    "Zündapp Z 300"
+  ],
+  "bikeModels": {
+    "Royal Enfield": [
+      "Hunter 350 Metro",
+      "Hunter 350 Mid",
+      "Hunter 350 Retro",
+      "Hunter 350 Standard",
+      "Hunter 350 Top"
+    ],
+    "Savic": [
+      "C-Series (entry variant Omega)",
+      "C-Series Alpha",
+      "C-Series Delta",
+      "C-Series Omega"
+    ],
+    "Husqvarna": [
+      "701 Enduro",
+      "701 Supermoto",
+      "CR 125",
+      "CR 250",
+      "FC 250",
+      "FC 350",
+      "FC 450",
+      "FE 250",
+      "FE 350",
+      "FE 450",
+      "FE 501",
+      "FS 450",
+      "FX 350",
+      "FX 450",
+      "Norden 901",
+      "Norden 901 Expedition",
+      "SM 450R",
+      "SM 510R",
+      "SM 610",
+      "SM 630",
+      "SMR 449",
+      "SMR 510",
+      "SMR 511",
+      "Svartpilen 125",
+      "Svartpilen 250",
+      "Svartpilen 401",
+      "Svartpilen 701",
+      "TC 125",
+      "TC 250",
+      "TC 300",
+      "TC 450",
+      "TC 85",
+      "TE 150",
+      "TE 150i",
+      "TE 250",
+      "TE 300",
+      "TE 310",
+      "TE 410",
+      "TE 450",
+      "TE 510",
+      "TE 570",
+      "TE 610",
+      "TE 610E",
+      "TE 630",
+      "TX 300",
+      "TX 450",
+      "Vitpilen 125",
+      "Vitpilen 250",
+      "Vitpilen 401",
+      "Vitpilen 701",
+      "WR 125",
+      "WR 250",
+      "WR 300"
+    ],
+    "KTM": [
+      "1090 Adventure",
+      "1090 Adventure R",
+      "1190 Adventure",
+      "1190 Adventure R",
+      "125 Duke",
+      "1290 Super Adventure R",
+      "1290 Super Adventure S",
+      "1290 Super Adventure T",
+      "1290 Super Duke GT",
+      "1290 Super Duke R",
+      "200 Duke",
+      "250 Duke",
+      "390 Duke",
+      "50 SX Mini",
+      "65 SX",
+      "690 Duke",
+      "690 Enduro R",
+      "690 SMC R",
+      "790 Adventure",
+      "790 Adventure R",
+      "790 Duke",
+      "85 SX",
+      "890 Adventure",
+      "890 Adventure R",
+      "890 Adventure Rally",
+      "890 Duke",
+      "890 Duke R",
+      "990 Adventure",
+      "990 Adventure R",
+      "990 Duke",
+      "990 Super Duke",
+      "EXC 250",
+      "EXC 350 F",
+      "EXC 450 F",
+      "EXC 500 F",
+      "Freeride 250 F",
+      "Freeride E-XC",
+      "RC 125",
+      "RC 200",
+      "RC 250",
+      "RC 390",
+      "RC 8C",
+      "RC8 1190",
+      "SX 125",
+      "SX 250",
+      "SX-F 250",
+      "SX-F 350",
+      "SX-F 450"
+    ],
+    "Amazonas": [
+      "Amazonas 1600",
+      "Amazonas AME-110",
+      "Amazonas AME-125",
+      "Amazonas AME-150",
+      "Amazonas AME-250 C1"
+    ],
+    "Dafra": [
+      "Cruisym 150",
+      "Cruisym 300",
+      "Joyride 300 ABS",
+      "Maxsym 400 GT",
+      "NH 190",
+      "NH 300",
+      "NHX 190"
+    ],
+    "Can-Am": [
+      "Canyon XT",
+      "Origin (Electric)",
+      "Pulse (Electric)",
+      "Renegade 850 X XC",
+      "Ryker Sport 900",
+      "Spyder F3-S",
+      "Spyder RT Limited"
+    ],
+    "Benelli": [
+      "502 C",
+      "502C",
+      "752S",
+      "900RS",
+      "BN 302",
+      "BN 600",
+      "Imperiale 400",
+      "Leoncino 250",
+      "Leoncino 500",
+      "Leoncino 800",
+      "Leoncino 800 Trail",
+      "Quattro 500",
+      "Sei 750",
+      "Sei 900",
+      "TNT 125",
+      "TNT 150",
+      "TNT 300",
+      "TNT 600i",
+      "TNT 899",
+      "TNT R160",
+      "TRK 251",
+      "TRK 502",
+      "TRK 502 X",
+      "TRK 502X",
+      "TRK 702",
+      "TRK 702X",
+      "Tornado Naked Tre 1130",
+      "Tornado Tre 1130 K",
+      "Tornado Tre 900",
+      "Tre 1130 K Amazonas",
+      "Velvet 125",
+      "Velvet 250"
+    ],
+    "CFMoto": [
+      "1250TR-G",
+      "300CL-X",
+      "300NK",
+      "300SR",
+      "400NK",
+      "450CL-C",
+      "450NK",
+      "450SR",
+      "650GT",
+      "650MT",
+      "650NK",
+      "700CL-X Heritage",
+      "700CL-X Sport",
+      "700MT",
+      "800MT Explore",
+      "800MT Touring",
+      "800NK",
+      "Papio CL-X",
+      "Papio SS"
+    ],
+    "Loncin": [
+      "CR1 125",
+      "CR250",
+      "JL150-58 CR1",
+      "LX110-36",
+      "LX150-76",
+      "SX2 250"
+    ],
+    "NIU": [
+      "F400i",
+      "KQi Air",
+      "KQi2 Pro",
+      "KQi3 Sport",
+      "MQi GT",
+      "MQi+ Sport",
+      "NIU MQi+ Sport",
+      "NIU NQi GT",
+      "NQi GT",
+      "NQi GTS",
+      "RQi Electric Motorcycle",
+      "UQi GT",
+      "UQi Sport",
+      "XQi3 Electric Dirt Bike"
+    ],
+    "QJMotor": [
+      "SRC 250",
+      "SRC 500",
+      "SRK 125 R",
+      "SRK 400",
+      "SRT 600 S",
+      "SRT 900 S",
+      "SRV 125",
+      "TRX 125"
+    ],
+    "SUNRA": [
+      "Amalfi",
+      "Crystal 2",
+      "Grace",
+      "K6",
+      "Miku Super"
+    ],
+    "YADEA": [
+      "C1S",
+      "E8S Pro",
+      "G5",
+      "KS5 Pro",
+      "M6",
+      "S-Like",
+      "X3",
+      "Y1S"
+    ],
+    "Zongshen": [
+      "AQS401",
+      "CUBE",
+      "Cyclone RG3",
+      "Cyclone RX6",
+      "RX1S",
+      "RX600",
+      "YOMI",
+      "ZS 125-50",
+      "ZS 200 GS",
+      "ZS 250 GS"
+    ],
+    "Lifan": [
+      "KPX 250",
+      "LF100-C (II) PONY 100II",
+      "LF150-10B (KP150)",
+      "LF150-10S (KPR150)",
+      "LF150-5U (KPmini 150)",
+      "LF250 GY-2 Cossack",
+      "V16 (LF250-E)",
+      "V16 Plus (LF250-K)",
+      "V16S (LF250-R)",
+      "X-Pect 200"
+    ],
+    "Zero Motorcycles": [
+      "Zero DSR/X",
+      "Zero S",
+      "Zero XB",
+      "Zero XE"
+    ],
+    "Energica": [
+      "Energica EGO",
+      "Energica EsseEsse9",
+      "Energica Eva Ribelle"
+    ],
+    "Damon Motors": [
+      "Damon HyperFighter",
+      "Damon HyperSport"
+    ],
+    "Lightning Motorcycles": [
+      "Lightning LS-218"
+    ],
+    "Verge Motorcycles": [
+      "Verge TS Pro",
+      "Verge TS Ultra"
+    ],
+    "Cake": [
+      "Cake Kalk INK",
+      "Cake Ösa Lite"
+    ],
+    "Yadea": [
+      "Yadea C1S",
+      "Yadea G5"
+    ],
+    "Gogoro": [
+      "2 Series Premium",
+      "CrossOver 50",
+      "CrossOver GX250",
+      "CrossOver S",
+      "Delight",
+      "Gogoro SuperSport",
+      "Gogoro VIVA",
+      "JEGO",
+      "Pulse",
+      "SuperSport",
+      "VIVA MIX",
+      "VIVA XL"
+    ],
+    "Ultraviolette": [
+      "Ultraviolette F77",
+      "Ultraviolette X47 Crossover"
+    ],
+    "Ather Energy": [
+      "Ather 450X",
+      "Ather 450X Pro"
+    ],
+    "Ola Electric": [
+      "Ola Roadster Pro",
+      "Ola Roadster X"
+    ],
+    "Revolt Motors": [
+      "Revolt RV300",
+      "Revolt RV400"
+    ],
+    "MBK": [
+      "Booster NG 50",
+      "Booster Spirit 50",
+      "Evolis 50",
+      "Flipper 50",
+      "Kilibre 300",
+      "Mach G 50",
+      "Nitro Naked 50",
+      "Ovetto 50",
+      "Skycruiser 125",
+      "Skyliner 125",
+      "X-Limit 50",
+      "X-Power 50"
+    ],
+    "Peugeot Motocycles": [
+      "Django 125",
+      "Django Classic 125",
+      "Django Classic 50",
+      "Kisbee 125",
+      "Kisbee 50",
+      "Metropolis 400",
+      "PM-01 125",
+      "PM-01 300",
+      "Pulsion 125",
+      "Speedfight 50",
+      "Streetzone 50",
+      "Tweet 125",
+      "Tweet 50",
+      "XP400",
+      "e-Streetzone"
+    ],
+    "Voxan": [
+      "Black Magic",
+      "Café Racer",
+      "Charade Racing",
+      "GTV 1200",
+      "Roadster",
+      "Scrambler",
+      "Street Scrambler",
+      "VB1",
+      "VX10",
+      "Wattman"
+    ],
+    "BMW G 310 R": [
+      "G 310 R (entry-level naked)"
+    ],
+    "BMW R 1250 GS": [
+      "R 1250 GS (adventure tourer)"
+    ],
+    "BMW S 1000 RR": [
+      "S 1000 RR (supersport)"
+    ],
+    "BMW K 1600 GTL": [
+      "K 1600 GTL (luxury tourer)"
+    ],
+    "BMW R 18 Transcontinental": [
+      "R 18 Transcontinental (cruiser)"
+    ],
+    "BMW F 800 GT": [
+      "F 800 GT (sport-touring)"
+    ],
+    "BMW C 400 GT": [
+      "C 400 GT (maxi-scooter)"
+    ],
+    "BMW F 800 R": [
+      "F 800 R (naked)"
+    ],
+    "BMW C 600 Sport": [
+      "C 600 Sport (maxi-scooter)"
+    ],
+    "BMW C 650 GT": [
+      "C 650 GT (maxi-scooter touring)"
+    ],
+    "DKW RT 125": [
+      "RT 125 (single-cylinder 2-stroke, circa 1939 onward)"
+    ],
+    "DKW RT 175": [
+      "RT 175 (single-cylinder 2-stroke, post-war variant)"
+    ],
+    "DKW NZ 350": [
+      "NZ 350 (346  single-cylinder, Wehrmacht dispatch bike)"
+    ],
+    "DKW NZ 500": [
+      "NZ 500 (489  twin-cylinder 2-stroke, 1939-41)"
+    ],
+    "DKW SM 175": [
+      "SM 175 (moped / light motorcycle, 1925 era)"
+    ],
+    "DKW Block 200": [
+      "Block 200 (200  single-cylinder 2-stroke, 1931-33)"
+    ],
+    "DKW 125 Motocross": [
+      "125 Motocross (late 1960s/early 1970s motocross )"
+    ],
+    "DKW Luxus 300": [
+      "Luxus 300 (1929-30 300 )"
+    ],
+    "DKW SS 350": [
+      "SS 350 (racing 350 , supercharged twin-piston)"
+    ],
+    "DKW RT 100": [
+      "RT 100 (100  two-stroke early )"
+    ],
+    "DKW KS 200": [
+      "KS 200 (200  single-cyl two-stroke)"
+    ],
+    "Horex Regina": [
+      "Regina (1949-1956, 250/342/399  single)"
+    ],
+    "Horex Resident": [
+      "Resident (1955 350 )"
+    ],
+    "Horex Imperator 400": [
+      "Imperator 400 (1954 twin-cylinder)"
+    ],
+    "Horex 644 Osca": [
+      "644 Osca (1988 small production variant)"
+    ],
+    "Horex VR6 Roadster": [
+      "VR6 Roadster (2013 onwards, 1218  V6)"
+    ],
+    "Horex VR6 Classic": [
+      "VR6 Classic (update of VR6 series)"
+    ],
+    "Horex VR6 Black Edition": [
+      "VR6 Black Edition (limited special edition)"
+    ],
+    "Horex Regina Evo": [
+      "Regina Evo (2023 revival , 600  single)"
+    ],
+    "Horex VR6 Café Racer": [
+      "VR6 Café Racer (V6 1,218  variant)"
+    ],
+    "Horex VR6 Silver Edition": [
+      "VR6 Silver Edition (limited run V6)"
+    ],
+    "Horex Resident 350": [
+      "Resident 350 (1955 , 349  single)"
+    ],
+    "MZ RT 125": [
+      "RT 125 (125 two-stroke single)"
+    ],
+    "MZ 125": [
+      "125/2-4 series (123-125 two-stroke)"
+    ],
+    "MZ ES 150": [
+      "ES 150 (143  / 150 two-stroke single)"
+    ],
+    "MZ TS 250": [
+      "TS 250 (250 two-stroke single)"
+    ],
+    "MZ ETZ 250": [
+      "ETZ 250 (250 enduro/road twin-shock)"
+    ],
+    "MZ Saxon 500 Tour": [
+      "Saxon 500 Tour (500 single/twin variant)"
+    ],
+    "MZ Skorpion": [
+      "Skorpion (660 four-stroke single)"
+    ],
+    "MZ 1000S": [
+      "1000S (998/996 parallel twin)"
+    ],
+    "MZ Classic 300": [
+      "Classic 300 (291 single)"
+    ],
+    "MZ SM 125": [
+      "SM 125 (supermoto, 124  four-stroke single)"
+    ],
+    "MZ ETZ 251": [
+      "ETZ 251 (247  two-stroke single)"
+    ],
+    "MZ Classic 125": [
+      "Classic 125 (125  single)"
+    ],
+    "MZ Fun 300": [
+      "Fun 300 (291  single, styled cruiser)"
+    ],
+    "MZ Baghira 660": [
+      "Baghira 660 (660  four-stroke single)"
+    ],
+    "NSU 201 TS": [
+      "201 TS (200  1-cyl ioe)"
+    ],
+    "NSU 201 OSL": [
+      "201 OSL (198  overhead-valve single)"
+    ],
+    "NSU 351 OSL": [
+      "351 OSL (346 1-cyl ohv)"
+    ],
+    "NSU 501 OSL": [
+      "501 OSL (500  1-cyl ohv)"
+    ],
+    "NSU Konsul II": [
+      "Konsul II (500  single-cyl export variant)"
+    ],
+    "NSU Quick 50": [
+      "Quick 50 (50  lightweight 2-stroke)"
+    ],
+    "NSU Max 175": [
+      "Max 175 (174  single)"
+    ],
+    "NSU Fox": [
+      "Fox (98  four-stroke single, 1948-60)"
+    ],
+    "NSU Quickly": [
+      "Quickly (49  two‐stroke moped series)"
+    ],
+    "NSU Sportmax": [
+      "Sportmax (250  twin‐shock sport version)"
+    ],
+    "Wanderer": [
+      "2PS",
+      "350 (Type W3)",
+      "3PS",
+      "4PS",
+      "5PS (Wanderer 500)",
+      "616",
+      "K500",
+      "K600",
+      "W250",
+      "W500 (Boxer)",
+      "Wanderer 200",
+      "Wanderer 300",
+      "Wanderer 350 Touring",
+      "Wanderer 350S",
+      "Wanderer 450",
+      "Wanderer 500S",
+      "Wanderer 680",
+      "Wanderer K750 Prototype",
+      "Wanderer Sport 500"
+    ],
+    "Zündapp GTS 50": [
+      "GTS 50 (moped/mokick series)"
+    ],
+    "Zündapp KS 175": [
+      "KS 175 (Type 521-50/521-51, 1977-82)"
+    ],
+    "Zündapp 200 S": [
+      "200 S (1955-58 2-stroke single)"
+    ],
+    "Zündapp 250 S Trophy": [
+      "250 S Trophy (1956-64 245/250  single)"
+    ],
+    "Zündapp 448": [
+      "448 (moped series, late 1970s-82)"
+    ],
+    "Zündapp KS 80": [
+      "KS 80 (Leichtkraftrad, 78  1981-84)"
+    ],
+    "Zündapp Z 300": [
+      "Z 300 (1928-30 297  two-stroke)"
+    ],
+    "Zündapp K 80": [
+      "K 80 (Typen 540 series 1981-84)"
+    ],
+    "Ampere Nexus": [
+      "Nexus (high-speed family e-scooter, 2024)"
+    ],
+    "Ampere Magnus Grand": [
+      "Magnus Grand (2025 refreshed version)"
+    ],
+    "Ampere Magnus Neo": [
+      "Magnus Neo (2025 variant)"
+    ],
+    "Ampere Magnus EX": [
+      "Magnus EX (earlier high-speed e-scooter)"
+    ],
+    "Ampere Reo": [
+      "Reo (entry-level e-scooter)"
+    ],
+    "Ampere Zeal": [
+      "Zeal (light-weight e-scooter)"
+    ],
+    "Ampere Primus": [
+      "Primus (upcoming / new generation high-speed e-scooter)"
+    ],
+    "Ampere Zeal EX": [
+      "Zeal EX (upgraded light-weight e-scooter)"
+    ],
+    "Ampere V48": [
+      "V48 (low-speed commuter e-scooter)"
+    ],
+    "Ampere Reo Li Plus": [
+      "Reo Li Plus (entry-level e-scooter)"
+    ],
+    "Ather 450": [
+      "450 (first generation performance e-scooter)"
+    ],
+    "Ather 450X Gen3": [
+      "450X Gen3 (updated performance variant 3.7 kWh battery)"
+    ],
+    "Ather 450 Apex": [
+      "450 Apex (limited-edition top variant)"
+    ],
+    "Ather Rizta S": [
+      "Rizta S (family convenience variant, 2.9 kWh)"
+    ],
+    "Ather Rizta Z": [
+      "Rizta Z (family convenience variant, 3.7 kWh)"
+    ],
+    "Bajaj Chetak Electric": [
+      "Chetak"
+    ],
+    "Bajaj Chetak Premium": [
+      "Chetak Premium"
+    ],
+    "Bajaj Chetak Urbane": [
+      "Chetak Urbane"
+    ],
+    "Bajaj Chetak (Classic Petrol)": [
+      "Chetak (2-stroke / 4-stroke)"
+    ],
+    "Bajaj Super": [
+      "Super"
+    ],
+    "Bajaj Priya": [
+      "Priya"
+    ],
+    "Bajaj Sunny": [
+      "Sunny"
+    ],
+    "Bajaj Wave": [
+      "Wave"
+    ],
+    "Bajaj Kristal": [
+      "Kristal DTS-i"
+    ],
+    "Bajaj Spirit": [
+      "Spirit"
+    ],
+    "Bajaj CT 100": [
+      "CT 100"
+    ],
+    "Bajaj Platina 100": [
+      "Platina 100"
+    ],
+    "Bajaj Platina 110": [
+      "Platina 110"
+    ],
+    "Bajaj Platina 110 H-Gear": [
+      "Platina 110 H-Gear"
+    ],
+    "Bajaj Boxer 100": [
+      "Boxer 100"
+    ],
+    "Bajaj Discover 100": [
+      "Discover 100"
+    ],
+    "Bajaj Discover 125": [
+      "Discover 125"
+    ],
+    "Bajaj Discover 135": [
+      "Discover 135"
+    ],
+    "Bajaj Pulsar 125": [
+      "Pulsar 125"
+    ],
+    "Bajaj Pulsar NS125": [
+      "NS125"
+    ],
+    "Bajaj Pulsar N125": [
+      "Pulsar N125"
+    ],
+    "Bajaj Pulsar 150": [
+      "Pulsar 150"
+    ],
+    "Bajaj Pulsar N150": [
+      "Pulsar N150"
+    ],
+    "Bajaj Pulsar NS160": [
+      "NS160"
+    ],
+    "Bajaj Pulsar N160": [
+      "Pulsar N160"
+    ],
+    "Bajaj Pulsar 180": [
+      "Pulsar 180"
+    ],
+    "Bajaj Pulsar 180F": [
+      "Pulsar 180F"
+    ],
+    "Bajaj Pulsar 220 / 220F": [
+      "Pulsar 220 / 220F"
+    ],
+    "Bajaj Pulsar NS200": [
+      "NS200"
+    ],
+    "Bajaj Pulsar RS200": [
+      "RS200"
+    ],
+    "Bajaj Pulsar NS250": [
+      "NS250"
+    ],
+    "Bajaj Pulsar N250": [
+      "Pulsar N250"
+    ],
+    "Bajaj Pulsar NS400Z": [
+      "NS400Z"
+    ],
+    "Bajaj Avenger 160 Street": [
+      "Avenger 160 Street"
+    ],
+    "Bajaj Avenger 180": [
+      "Avenger 180"
+    ],
+    "Bajaj Avenger 220 Cruise": [
+      "Avenger 220 Cruise"
+    ],
+    "Bajaj Dominar 250": [
+      "Dominar 250"
+    ],
+    "Bajaj Dominar 400": [
+      "Dominar 400"
+    ],
+    "Bajaj Freedom 125 (manual gear)": [
+      "Freedom 125"
+    ],
+    "Hero Pleasure +": [
+      "Pleasure +"
+    ],
+    "Hero Destini 110": [
+      "Destini 110"
+    ],
+    "Hero Destini Prime": [
+      "Destini Prime"
+    ],
+    "Hero Destini 125": [
+      "Destini 125"
+    ],
+    "Hero Xoom 110": [
+      "Xoom 110"
+    ],
+    "Hero Xoom 125": [
+      "Xoom 125"
+    ],
+    "Hero Xoom 160": [
+      "Xoom 160"
+    ],
+    "Hero HF Deluxe": [
+      "HF Deluxe"
+    ],
+    "Hero Splendor Plus": [
+      "Splendor Plus"
+    ],
+    "Hero Passion Plus": [
+      "Passion Plus"
+    ],
+    "Hero Super Splendor Xtec": [
+      "Super Splendor Xtec"
+    ],
+    "Hero Glamour X 125": [
+      "Glamour X 125"
+    ],
+    "Hero Xtreme 125R": [
+      "Xtreme 125R"
+    ],
+    "Hero Xtreme 160R": [
+      "Xtreme 160R"
+    ],
+    "Hero XPulse 200 4V": [
+      "XPulse 200 4V"
+    ],
+    "Hero Xtreme 250R": [
+      "Xtreme 250R"
+    ],
+    "Hero Karizma XMR": [
+      "Karizma XMR"
+    ],
+    "Honda Activa 6G": [
+      "Activa 6G"
+    ],
+    "Honda Activa 125": [
+      "Activa 125"
+    ],
+    "Honda Dio": [
+      "Dio"
+    ],
+    "Honda Dio 125": [
+      "Dio 125"
+    ],
+    "Honda Activa 3G": [
+      "Activa 3G"
+    ],
+    "Honda Activa 4G": [
+      "Activa 4G"
+    ],
+    "Honda Activa 5G": [
+      "Activa 5G"
+    ],
+    "Honda CD 110 Dream": [
+      "CD 110 Dream"
+    ],
+    "Honda Livo": [
+      "Livo"
+    ],
+    "Honda Shine 100": [
+      "Shine 100"
+    ],
+    "Honda Shine": [
+      "Shine"
+    ],
+    "Honda SP 125": [
+      "SP 125"
+    ],
+    "Honda Unicorn": [
+      "Unicorn"
+    ],
+    "Honda Hornet 2.0": [
+      "Hornet 2.0"
+    ],
+    "Honda CB 125 Hornet": [
+      "CB 125 Hornet"
+    ],
+    "Honda SP 160": [
+      "SP 160"
+    ],
+    "Honda CB 350": [
+      "CB 350"
+    ],
+    "Honda CB 350RS": [
+      "CB 350RS"
+    ],
+    "Honda CB350C Special Edition": [
+      "CB350C Special Edition"
+    ],
+    "Jawa 125 Type 351": [
+      "Type 351"
+    ],
+    "Jawa 125 Type 355": [
+      "Type 355 (1950s upgrade of 351)"
+    ],
+    "Jawa 175 Type 356": [
+      "Type 356"
+    ],
+    "Jawa 250 Type 559": [
+      "Type 559"
+    ],
+    "Jawa 250 Type 590": [
+      "Type 590"
+    ],
+    "Jawa 350 Type 360": [
+      "Type 360"
+    ],
+    "Jawa 350 Type 632": [
+      "Type 632 (Mid-1980s restyle)"
+    ],
+    "Jawa 350 Type 639": [
+      "Type 639"
+    ],
+    "Jawa 350 Type 640 Retro": [
+      "Type 640 Retro (Final evolution twin, 1990s)"
+    ],
+    "Jawa 350 OHC Special": [
+      "OHC Special"
+    ],
+    "Jawa 660 Vintage ABS": [
+      "660 Vintage ABS"
+    ],
+    "Jawa 660 Dakar": [
+      "660 Dakar (Adventure variant prototype)"
+    ],
+    "Jawa Robot": [
+      "Robot"
+    ],
+    "Jawa Minor": [
+      "Minor"
+    ],
+    "Jawa Tramp": [
+      "Tramp"
+    ],
+    "Jawa Bizon": [
+      "Bizon (Type 633, 1970s prototype)"
+    ],
+    "Jawa 350 OHC Bobber": [
+      "OHC Bobber"
+    ],
+    "Jawa 350 Pionyr": [
+      "Pionýr (Type 550 / 555 / 05 / 20 mini-bikes)"
+    ],
+    "Jawa 50 Mustang": [
+      "Mustang (Compact commuter, 1970s)"
+    ],
+    "Jawa 50 Trail": [
+      "50 Trail (Off-road variant of Mustang)"
+    ],
+    "Kinetic Nova 135": [
+      "Nova 135 (1996-2000 geared scooter)"
+    ],
+    "Kinetic Y2K": [
+      "Y2K"
+    ],
+    "Kinetic Zoom": [
+      "Zoom"
+    ],
+    "Kinetic Blaze": [
+      "Blaze"
+    ],
+    "Kinetic GF125": [
+      "GF125"
+    ],
+    "Kinetic DX EV": [
+      "DX EV (2025 electric scooter revival)"
+    ],
+    "Kinetic Green Zing": [
+      "Green Zing (Electric scooter, 2024-25)"
+    ],
+    "Kinetic Green Zulu": [
+      "Green Zulu (Electric scooter, 2024–25 high speed variant)"
+    ],
+    "Kinetic Green E-Luna": [
+      "E-Luna"
+    ],
+    "LML Vespa PX 150": [
+      "Vespa PX 150 (licensed Piaggio , early 1990s)"
+    ],
+    "LML NV 150": [
+      "NV 150 (Steel-bodied geared scooter, 2-stroke)"
+    ],
+    "LML NV Spl": [
+      "NV Spl (Special edition, chrome & paint upgrades)"
+    ],
+    "LML Select 2": [
+      "Select 2"
+    ],
+    "LML Select 4": [
+      "Select 4 (Four-stroke variant for export markets)"
+    ],
+    "LML Star 150": [
+      "Star 150 (Export , marketed as Stella in USA)"
+    ],
+    "LML Star Deluxe": [
+      "Star Deluxe (Classic steel body scooter, 2-stroke)"
+    ],
+    "LML Star Euro 150 4T": [
+      "Star Euro 150 4T (Euro-spec 4-stroke version)"
+    ],
+    "LML Freedom 110": [
+      "Freedom (Commuter motorcycle, entry-level)"
+    ],
+    "LML Freedom 125 DX": [
+      "Freedom 125 DX (Upgraded commuter version)"
+    ],
+    "LML Graptor": [
+      "Graptor"
+    ],
+    "LML Adreno FX": [
+      "Adreno FX"
+    ],
+    "LML Energy FX": [
+      "Energy FX (Commuter variant of Adreno FX)"
+    ],
+    "LML Supremo": [
+      "Supremo"
+    ],
+    "LML Sensation": [
+      "Sensation (Electric scooter concept, 2023)"
+    ],
+    "LML Star Electric": [
+      "Star Electric (2023 retro electric scooter)"
+    ],
+    "LML Moonshot": [
+      "Moonshot (Electric bike / scrambler concept, 2023)"
+    ],
+    "LML Orion": [
+      "Orion (Electric e-bike / smart commuter, 2023)"
+    ],
+    "LML Star Deluxe Export": [
+      "Star Deluxe Export (Rebadged Stella for USA and Europe)"
+    ],
+    "LML NV T5": [
+      "NV T5 (Performance geared scooter prototype)"
+    ],
+    "Mahindra Pantero": [
+      "Pantero (106.7 commuter)"
+    ],
+    "Mahindra Gusto 110": [
+      "Gusto 110 (109.6  scooter)"
+    ],
+    "Mahindra Rodeo 125": [
+      "Rodeo 125 (124.6 scooter)"
+    ],
+    "Mahindra Duro DZ 125": [
+      "Duro DZ 125 (124.66  scooter)"
+    ],
+    "Mahindra Kine 70": [
+      "Kine 70 (71.5  entry-level scooter)"
+    ],
+    "Mahindra Mojo XT300": [
+      "Mojo XT300 (295  sport-tourer)"
+    ],
+    "Oben Rorr": [
+      "Rorr (premium electric motorcycle, 100 km/h top speed)"
+    ],
+    "Oben Rorr EZ": [
+      "Rorr EZ (commuter EV motorcycle, up to 175 km range)"
+    ],
+    "Oben Rorr EZ Sigma": [
+      "Rorr EZ Sigma (enhanced variant of Rorr EZ, 3.4 kWh & 4.4 kWh batteries)"
+    ],
+    "Oben O100 Series": [
+      "O100 Series (upcoming sub-₹1 lakh electric motorcycle platform)"
+    ],
+    "Okinawa Ridge": [
+      "Ridge (low-speed e-scooter)"
+    ],
+    "Okinawa Dual": [
+      "Dual (B2B e-scooter for delivery)"
+    ],
+    "Okinawa Lite": [
+      "Lite (slow-speed commuter e-scooter)"
+    ],
+    "Okinawa R30": [
+      "R30 (entry-level e-scooter)"
+    ],
+    "Okinawa Praise Pro": [
+      "Praise Pro (high-speed e-scooter)"
+    ],
+    "Okinawa OKHI-90": [
+      "OKHI-90 (high-performance e-scooter, ~85-90 km/h)"
+    ],
+    "Okinawa Ridge+": [
+      "Ridge+ (high-speed e-scooter)"
+    ],
+    "Okinawa iPraise+": [
+      "iPraise+ (high-speed e-scooter with Li-ion battery)"
+    ],
+    "Ola S1 Pro": [
+      "S1 Pro (scooter flagship)"
+    ],
+    "Ola S1 X+": [
+      "S1 X+ (scooter mid-premium)"
+    ],
+    "Ola S1 X": [
+      "S1 X (scooter value edition)"
+    ],
+    "Ola S1 Air": [
+      "S1 Air (scooter commuter variant)"
+    ],
+    "Ola S1 Z": [
+      "S1 Z (entry-level scooter with removable battery)"
+    ],
+    "Ola Gig": [
+      "Gig (commercial / light-use scooter)"
+    ],
+    "Ola Roadster X": [
+      "Roadster X (electric motorcycle entry series)"
+    ],
+    "Ola Roadster X+": [
+      "Roadster X+ (electric motorcycle premium variant)"
+    ],
+    "Ola Roadster": [
+      "Roadster (electric motorcycle standard series)"
+    ],
+    "PURE EV ETrance Neo": [
+      "ETrance Neo (scooter)"
+    ],
+    "PURE EV Epluto 7G": [
+      "Epluto 7G (scooter)"
+    ],
+    "PURE EV Epluto 7G Max": [
+      "Epluto 7G Max (scooter, longer-range variant)"
+    ],
+    "PURE EV ecoDryft": [
+      "ecoDryft (electric motorcycle commuter)"
+    ],
+    "PURE EV ETryst 350": [
+      "ETryst 350 (electric motorcycle)"
+    ],
+    "Revolt RV300": [
+      "RV300 (2020-2023)"
+    ],
+    "Revolt RV400": [
+      "RV400 (flagship electric motorcycle)"
+    ],
+    "Revolt RV400 BRZ": [
+      "RV400 BRZ (style variant of RV400)"
+    ],
+    "Revolt RV1": [
+      "RV1 (commuter electric motorcycle)"
+    ],
+    "Revolt RV1+": [
+      "RV1+ (premium variant of RV1)"
+    ],
+    "Revolt RV BlazeX": [
+      "RV BlazeX (new tech commuter electric motorcycle 2025)"
+    ],
+    "Royal Enfield Hunter 350": [
+      "Hunter 350"
+    ],
+    "Royal Enfield Classic 350": [
+      "Classic 350"
+    ],
+    "Royal Enfield Bullet 350": [
+      "Bullet 350"
+    ],
+    "Royal Enfield Meteor 350": [
+      "Meteor 350"
+    ],
+    "Royal Enfield Goan Classic 350": [
+      "Goan Classic 350"
+    ],
+    "Royal Enfield Himalayan 450": [
+      "Himalayan 450"
+    ],
+    "Royal Enfield Guerrilla 450": [
+      "Guerrilla 450"
+    ],
+    "Royal Enfield Interceptor 650": [
+      "Interceptor 650"
+    ],
+    "Royal Enfield Continental GT 650": [
+      "Continental GT 650"
+    ],
+    "Royal Enfield Super Meteor 650": [
+      "Super Meteor 650"
+    ],
+    "Royal Enfield Shotgun 650": [
+      "Shotgun 650"
+    ],
+    "Royal Enfield Classic 650": [
+      "Classic 650"
+    ],
+    "Suzuki Access 125": [
+      "Access 125"
+    ],
+    "Suzuki Access 125 SE": [
+      "Access 125 Special Edition"
+    ],
+    "Suzuki Access 125 BS6": [
+      "Access 125 BS6"
+    ],
+    "Suzuki Access 125 Bluetooth": [
+      "Access 125 Bluetooth Variant"
+    ],
+    "Suzuki Swish 125": [
+      "Swish 125"
+    ],
+    "Suzuki Swish 110": [
+      "Swish 110"
+    ],
+    "Suzuki Let's": [
+      "Let's 110"
+    ],
+    "Suzuki Burgman Street 125": [
+      "Burgman Street 125"
+    ],
+    "Suzuki Burgman Street EX": [
+      "Burgman Street EX"
+    ],
+    "Suzuki Burgman Electric": [
+      "Burgman Electric (prototype)"
+    ],
+    "Suzuki Avenis 125": [
+      "Avenis 125"
+    ],
+    "Suzuki SkyDrive 125": [
+      "SkyDrive 125 (imported)"
+    ],
+    "Suzuki Step 125": [
+      "Step 125 (early 2000s model)"
+    ],
+    "Suzuki Zeus Scooter Concept": [
+      "Zeus Concept"
+    ],
+    "Suzuki Heat Scooter (concept)": [
+      "Heat Scooter Concept"
+    ],
+    "Suzuki Access 125 (1st Gen)": [
+      "Access 125 (2007 Version)"
+    ],
+    "Suzuki Swish 125 (1st Gen)": [
+      "Swish 125 (2012 Version)"
+    ],
+    "Suzuki Let's (2014 Version)": [
+      "Let's 110 (2014)"
+    ],
+    "Suzuki Burgman Street 125 (2018)": [
+      "Burgman Street 125 (2018 Launch)"
+    ],
+    "Suzuki Avenis 125 (2022)": [
+      "Avenis 125 (2022 Launch)"
+    ],
+    "Suzuki Samurai": [
+      "Samurai"
+    ],
+    "Suzuki Shogun": [
+      "Shogun"
+    ],
+    "Suzuki Shaolin": [
+      "Shaolin"
+    ],
+    "Suzuki Fiero": [
+      "Fiero"
+    ],
+    "Suzuki Fiero FX": [
+      "Fiero FX"
+    ],
+    "Suzuki Heat": [
+      "Heat 125"
+    ],
+    "Suzuki Zeus": [
+      "Zeus 125"
+    ],
+    "Suzuki Slingshot": [
+      "Slingshot 125"
+    ],
+    "Suzuki Hayate": [
+      "Hayate 110"
+    ],
+    "Suzuki GS150R": [
+      "GS150R"
+    ],
+    "Suzuki Gixxer": [
+      "Gixxer 155"
+    ],
+    "Suzuki Gixxer SF": [
+      "Gixxer SF 155"
+    ],
+    "Suzuki Gixxer 250": [
+      "Gixxer 250"
+    ],
+    "Suzuki Gixxer SF 250": [
+      "Gixxer SF 250"
+    ],
+    "Suzuki Intruder 150": [
+      "Intruder 150"
+    ],
+    "Suzuki Inazuma 250": [
+      "Inazuma 250"
+    ],
+    "Suzuki V-Strom SX": [
+      "V-Strom SX 250"
+    ],
+    "Suzuki GSX-S750": [
+      "GSX-S750"
+    ],
+    "Suzuki Katana": [
+      "Katana (2019+ GSX-S1000S based)",
+      "Katana 1000"
+    ],
+    "Suzuki GSX-R1000": [
+      "GSX-R1000",
+      "GSX-R1000 / R1000R"
+    ],
+    "Suzuki Hayabusa": [
+      "GSX-1300R Hayabusa",
+      "GSX1300R Hayabusa (1999–present)"
+    ],
+    "Suzuki GSX-8R": [
+      "GSX-8R"
+    ],
+    "Tork T6X": [
+      "T6X (first production electric bike prototype 2016-19)"
+    ],
+    "Tork Kratos": [
+      "Kratos (standard variant electric motorcycle)"
+    ],
+    "Tork Kratos R": [
+      "Kratos R (upgraded performance variant)"
+    ],
+    "Tork Kratos R Urban": [
+      "Kratos R Urban Trim (cheaper urban-spec variant)"
+    ],
+    "TVS Ntorq 125": [
+      "Ntorq 125"
+    ],
+    "TVS Jupiter": [
+      "Jupiter"
+    ],
+    "TVS Jupiter 125": [
+      "Jupiter 125"
+    ],
+    "TVS Zest 110": [
+      "Zest 110"
+    ],
+    "TVS Scooty Pep Plus": [
+      "Scooty Pep Plus"
+    ],
+    "TVS Sport": [
+      "Sport"
+    ],
+    "TVS Star City Plus": [
+      "Star City Plus"
+    ],
+    "TVS Radeon": [
+      "Radeon"
+    ],
+    "TVS Raider 125": [
+      "Raider 125"
+    ],
+    "TVS Apache RTR 160": [
+      "Apache RTR 160"
+    ],
+    "TVS Apache RTR 160 4V": [
+      "Apache RTR 160 4V"
+    ],
+    "TVS Apache RTR 180": [
+      "Apache RTR 180"
+    ],
+    "TVS Ronin": [
+      "Ronin"
+    ],
+    "TVS Apache RTR 200 4V": [
+      "Apache RTR 200 4V"
+    ],
+    "TVS Apache RR 310": [
+      "Apache RR 310"
+    ],
+    "Ultraviolette F77": [
+      "F77 (standard electric motorcycle)"
+    ],
+    "Ultraviolette F77 Mach 2": [
+      "F77 Mach 2 (upgraded version of F77)"
+    ],
+    "Ultraviolette F77 SuperStreet": [
+      "F77 SuperStreet (street-oriented variant)"
+    ],
+    "Ultraviolette Tesseract": [
+      "Tesseract (electric scooter)"
+    ],
+    "Ultraviolette X47": [
+      "X47 Crossover (electric motorcycle crossover variant)"
+    ],
+    "Ultraviolette Shockwave": [
+      "Shockwave (off-road electric motorcycle)"
+    ],
+    "Ultraviolette X47 Crossover": [
+      "X47 Crossover (electric motorcycle crossover segment)"
+    ],
+    "Ultraviolette F99": [
+      "F99 (electric superbike prototype/limited edition)"
+    ],
+    "Yamaha Fascino 125": [
+      "Fascino 125"
+    ],
+    "Yamaha Ray ZR 125": [
+      "Ray ZR",
+      "Ray ZR 125"
+    ],
+    "Yamaha Ray 125": [
+      "Ray"
+    ],
+    "Yamaha Aerox 155": [
+      "Aerox 155"
+    ],
+    "Yamaha BW'S": [
+      "BW'S (BWS)"
+    ],
+    "Yamaha Neo's": [
+      "Neo's"
+    ],
+    "Yamaha Cygnus Ray ZR": [
+      "Cygnus Ray ZR"
+    ],
+    "Yamaha XMAX": [
+      "XMAX 300"
+    ],
+    "Yamaha TMAX": [
+      "TMAX (maxi-scooter)",
+      "TMAX 530 / 560 (sport scooter)"
+    ],
+    "Yamaha RX100": [
+      "RX100",
+      "RX100 (Japan/India export)"
+    ],
+    "Yamaha RX135": [
+      "RX135"
+    ],
+    "Yamaha RXG": [
+      "RXG"
+    ],
+    "Yamaha Libero": [
+      "Libero"
+    ],
+    "Yamaha Crux": [
+      "Crux"
+    ],
+    "Yamaha Gladiator": [
+      "Gladiator"
+    ],
+    "Yamaha SS125": [
+      "SS125"
+    ],
+    "Yamaha SZ-R": [
+      "SZ-R"
+    ],
+    "Yamaha SZ-RR": [
+      "SZ-RR"
+    ],
+    "Yamaha FZ16": [
+      "FZ16"
+    ],
+    "Yamaha FZ-S": [
+      "FZ-S"
+    ],
+    "Yamaha FZ-S FI V2": [
+      "FZ-S FI V2"
+    ],
+    "Yamaha FZ-S FI V3": [
+      "FZ-S FI V3"
+    ],
+    "Yamaha FZS-FI V4": [
+      "FZS-FI V4"
+    ],
+    "Yamaha FZ-X": [
+      "FZ-X"
+    ],
+    "Yamaha FZ-X Hybrid": [
+      "FZ-X Hybrid"
+    ],
+    "Yamaha FZ25": [
+      "FZ25"
+    ],
+    "Yamaha Fazer 150": [
+      "Fazer 150"
+    ],
+    "Yamaha Fazer 25": [
+      "Fazer 25"
+    ],
+    "Yamaha MT-15 V1": [
+      "MT-15 V1"
+    ],
+    "Yamaha MT-15 V2": [
+      "MT-15 V2"
+    ],
+    "Yamaha R15 V1": [
+      "R15 V1"
+    ],
+    "Yamaha R15 V2": [
+      "R15 V2"
+    ],
+    "Yamaha R15 V3": [
+      "R15 V3"
+    ],
+    "Yamaha R15 V4": [
+      "R15 V4"
+    ],
+    "Yamaha R15M": [
+      "R15M"
+    ],
+    "Yamaha R3": [
+      "R3"
+    ],
+    "Yamaha MT-03": [
+      "MT-03",
+      "MT-03 (JDM naked 321 twin)"
+    ],
+    "Yamaha YZF-R1": [
+      "YZF-R1",
+      "YZF-R1 (998 supersport)"
+    ],
+    "Yamaha YZF-R6": [
+      "YZF-R6",
+      "YZF-R6 (600 supersport)"
+    ],
+    "Yamaha YZF-R7": [
+      "YZF-R7",
+      "YZF-R7 (MT-07 based 689)"
+    ],
+    "Yamaha MT-09": [
+      "MT-09",
+      "MT-09 (JDM 890 triple)"
+    ],
+    "Yamaha MT-10": [
+      "MT-10",
+      "MT-10 (JDM 998 inline-four)"
+    ],
+    "Yamaha Ray ZR Street Rally 125": [
+      "Ray ZR Street Rally 125"
+    ],
+    "Yamaha Alpha": [
+      "Alpha"
+    ],
+    "Yamaha Cygnus Ray Z": [
+      "Cygnus Ray Z"
+    ],
+    "Yamaha Enticer": [
+      "Enticer"
+    ],
+    "Yamaha RZ350": [
+      "RZ350"
+    ],
+    "Yamaha RXZ": [
+      "RXZ"
+    ],
+    "Yezdi Classic 250 Export": [
+      "Classic Export (1970s export variant)"
+    ],
+    "Yezdi 250 bike B": [
+      "bike B (Early production, Ideal Jawa Yezdi)"
+    ],
+    "Yezdi 250 bike C": [
+      "bike C (Improved frame and suspension)"
+    ],
+    "Yezdi Type D": [
+      "Type D (Prototype 250 touring bike)"
+    ],
+    "Yezdi 250 Sport": [
+      "Sport (Performance-oriented export version)"
+    ],
+    "Yezdi Trail": [
+      "Trail (Off-road variant / Scrambler prototype)"
+    ],
+    "Yezdi Roadking GP": [
+      "Roadking GP (Racing-tuned version for Indian rally)"
+    ],
+    "Yezdi 250 Enduro": [
+      "Enduro (Off-road / Rally spec bike)"
+    ],
+    "Yezdi 250 Rally": [
+      "Rally (Competition-tuned racing Yezdi)"
+    ],
+    "Yezdi Colt": [
+      "Colt (Mini-bike concept for youth riders)"
+    ],
+    "Yezdi Deluxe 250": [
+      "Deluxe 250 (Improved comfort and chrome version)"
+    ],
+    "Yezdi 175 Roadking Junior": [
+      "Roadking Junior (Smaller version of the Roadking)"
+    ],
+    "Yezdi 250 Safari": [
+      "Safari (Export-oriented touring bike)"
+    ],
+    "Yezdi 250 Constellation": [
+      "Constellation (Prototype based on export Jawa 250)"
+    ],
+    "Yezdi Scrambler 250 (Classic)": [
+      "Scrambler 250 (1970s off-road racing Yezdi)"
+    ],
+    "Yezdi 250 Twinport Racer": [
+      "Twinport Racer (Modified Roadking for drag & rally)"
+    ],
+    "Yezdi Adventure Rally Spec": [
+      "Adventure Rally Spec (Factory-built rally trim)"
+    ],
+    "Yezdi Roadster Chrome Edition": [
+      "Roadster Chrome Edition (Special finish variant)"
+    ],
+    "Yezdi Scrambler Midnight Blue": [
+      "Scrambler Midnight Blue (Color & trim edition)"
+    ],
+    "Yezdi Bobber Dark Series": [
+      "Bobber Dark Series (Special edition, 2024)"
+    ],
+    "GESITS": [
+      "Electric (G1 base model)",
+      "G1 DLX Smart Key",
+      "Garuda",
+      "Raya G"
+    ],
+    "Viar": [
+      "Cross X 100 Mini Trail",
+      "Cross X 70 Mini Trail",
+      "EV1",
+      "NX",
+      "New Karya 150",
+      "New Karya 200",
+      "Q1"
+    ],
+    "Aprilia": [
+      "Caponord 1200",
+      "Dorsoduro 900",
+      "Falco SL1000",
+      "Mana 850",
+      "Pegaso 650",
+      "RS 125",
+      "RS 250",
+      "RS 250 Challenge",
+      "RS 457",
+      "RS 660",
+      "RS Cube MotoGP",
+      "RSV 1000R",
+      "RSV Mille",
+      "RSV Tuono 1000",
+      "RSV4 1100",
+      "RSV4 Factory 1100",
+      "RX 125",
+      "SX 125",
+      "Shiver 900",
+      "Tuareg 660",
+      "Tuono 660",
+      "Tuono 660 Factory",
+      "Tuono V4 1100",
+      "Tuono V4 1100 RR",
+      "Tuono V4 Factory"
+    ],
+    "Bimota": [
+      "BB1 Supermono",
+      "BB3",
+      "DB1",
+      "DB2",
+      "DB3 Mantra",
+      "DB4",
+      "DB5",
+      "DB6 Delirio",
+      "DB7",
+      "DB8",
+      "DB8 SP",
+      "DBX",
+      "HB1",
+      "HB2",
+      "HB3",
+      "KB2",
+      "KB3",
+      "SB2",
+      "SB3",
+      "SB4",
+      "SB5",
+      "SB6",
+      "SB7",
+      "SB8K Santamonica",
+      "SB8R",
+      "Tesi 1D",
+      "Tesi 2D",
+      "Tesi 3D",
+      "Tesi H2",
+      "V-Due",
+      "YB10 Dieci",
+      "YB11 Superleggera",
+      "YB3",
+      "YB4EI",
+      "YB6",
+      "YB8",
+      "YB9 Bellaria"
+    ],
+    "Cagiva": [
+      "Alazzurra 350",
+      "Alazzurra 650",
+      "Canyon 500",
+      "Canyon 600",
+      "Canyon 900",
+      "Elefant 350",
+      "Elefant 650",
+      "Elefant 750",
+      "Elefant 900 AC",
+      "Elefant 900ie"
+    ],
+    "Ducati": [
+      "750SS",
+      "851 Strada",
+      "900SS",
+      "916 SPS",
+      "996 Biposto",
+      "998S",
+      "999R",
+      "DesertX",
+      "DesertX Rally",
+      "Desmosedici RR",
+      "Diavel 1260 S",
+      "Diavel V4",
+      "GT1000",
+      "Hypermotard 950",
+      "Hypermotard 950 RVE",
+      "MH900e",
+      "Monster 821",
+      "Monster 937",
+      "Monster SP",
+      "Multistrada 1260 Enduro",
+      "Multistrada V2",
+      "Multistrada V4",
+      "Multistrada V4 Pikes Peak",
+      "Panigale V2",
+      "Panigale V4",
+      "Panigale V4 R",
+      "Paul Smart 1000 LE",
+      "Scrambler 1100 Sport Pro",
+      "Scrambler Desert Sled",
+      "Scrambler Full Throttle",
+      "Scrambler Icon",
+      "Scrambler Nightshift",
+      "Sport 1000",
+      "Streetfighter V2",
+      "Streetfighter V4",
+      "Streetfighter V4 SP2",
+      "Superleggera V4",
+      "Supersport 950",
+      "Supersport 950 S",
+      "XDiavel Nera"
+    ],
+    "Fantic Motor": [
+      "Caballero 125",
+      "Caballero 125 Explorer",
+      "Caballero 250",
+      "Caballero 50",
+      "Caballero 500",
+      "Caballero 700",
+      "Caballero Deluxe 500",
+      "Caballero Flat Track 500",
+      "Caballero Rally 500",
+      "Caballero Scrambler 700"
+    ],
+    "Italjet": [
+      "Ascot 50",
+      "Buccaneer 250i",
+      "Cafe Racer 250",
+      "Clic 50",
+      "Dragster 125",
+      "Dragster 180",
+      "Dragster 200",
+      "Dragster 250",
+      "Dragster 50 LC",
+      "Dragster 70",
+      "Formula 125",
+      "Formula 125 Drag",
+      "Formula 125 LC",
+      "Formula 50 LC",
+      "Formula 50 Minarelli",
+      "Grifon 650",
+      "Jet Set 125",
+      "Jet Set 250",
+      "Jet Set 50",
+      "Millennium 125",
+      "Millennium 250",
+      "Mustang 50",
+      "Pack 2",
+      "Scout 125",
+      "Tiffany 50",
+      "Torpedo 125",
+      "Torpedo 150",
+      "Torpedo 250",
+      "Torpedo 50",
+      "Velocifero 125",
+      "Velocifero 50"
+    ],
+    "Malaguti": [
+      "Centro 125",
+      "Centro 160",
+      "Ciak 100",
+      "Ciak 125",
+      "Ciak 50",
+      "Drakon 125",
+      "Drakon 250",
+      "Dune 125",
+      "Dune 125 X",
+      "Grizzly 50",
+      "Grizzly RCX 12",
+      "Madison 125",
+      "Madison 150",
+      "Madison 250",
+      "Madison 300",
+      "Monte Pro 125",
+      "Password 250",
+      "Phantom 50",
+      "Phantom F12",
+      "Phantom F12R",
+      "Phantom Max 125",
+      "Phantom Max 200",
+      "RST 125",
+      "RST 50",
+      "RST 80",
+      "Spidermax GT 500",
+      "X3M Enduro 125",
+      "X3M Motard 125",
+      "XSM 50",
+      "XTM 50"
+    ],
+    "Lambretta": [
+      "DL 150",
+      "DL 200",
+      "Eibar Li 150",
+      "G350",
+      "GP 125",
+      "GP 150",
+      "GP 200",
+      "J 100 Cento",
+      "J 125 Starstream",
+      "J 50",
+      "L70 Cento",
+      "LN 125",
+      "LN 150",
+      "Li 125 Series I",
+      "Li 125 Series II",
+      "Li 150 Series I",
+      "Li 150 Series II",
+      "Li 150 Special",
+      "Lui 50 CL",
+      "Luna 50",
+      "Luna 75",
+      "SX 150",
+      "SX 200",
+      "Serveta Jet 200",
+      "Serveta Li 150 Special",
+      "Serveta SX 200",
+      "TV 175 Series I",
+      "TV 175 Series II",
+      "TV 175 Series III",
+      "TV 175 Special",
+      "TV 200",
+      "V-Special V125",
+      "V-Special V200",
+      "V-Special V50",
+      "X300",
+      "model A",
+      "model B",
+      "model C",
+      "model D 125",
+      "model E",
+      "model F",
+      "model LD 125"
+    ],
+    "Moto Guzzi": [
+      "1100 Sport",
+      "Airone 250",
+      "Alce 500",
+      "Bellagio 940",
+      "Breva 1100",
+      "California 1400 Touring",
+      "Centauro 1000",
+      "Daytona 1000",
+      "Eldorado 1400",
+      "Falcone 500",
+      "Galletto 192",
+      "Galletto 500",
+      "Griso 1200 8V",
+      "Le Mans 850",
+      "MGX-21 Flying Fortress",
+      "Norge 1200 GT",
+      "Stelvio 1200",
+      "V100 Mandello",
+      "V11 Sport",
+      "V50 Monza",
+      "V65 Lario",
+      "V7 Special",
+      "V7 Stone",
+      "V85 TT",
+      "V9 Bobber",
+      "V9 Roamer"
+    ],
+    "MV Agusta": [
+      "125 Sport",
+      "125 Turismo",
+      "150 RS",
+      "175 CST",
+      "350B",
+      "350S Ipotesi",
+      "500 3C GP",
+      "500 Turismo",
+      "600 Tourismo",
+      "750 Sport",
+      "750S",
+      "750S America",
+      "Brutale 1000 RR",
+      "Brutale 1000 RS",
+      "Brutale 675",
+      "Brutale 800",
+      "Brutale 800 RR",
+      "Brutale 800 RR SCS",
+      "Dragster 800",
+      "Dragster 800 RR",
+      "Dragster 800 RR SCS",
+      "F3 675",
+      "F3 800",
+      "F3 800 RC",
+      "F4 1000",
+      "F4 1000R",
+      "F4 1000RR",
+      "F4 Claudio",
+      "RVS #1",
+      "Rivale 800",
+      "Rush 1000",
+      "Stradale 800",
+      "Superveloce 1000 Serie Oro",
+      "Superveloce 800",
+      "Superveloce 800 Alpine",
+      "Superveloce 800 RC",
+      "Superveloce 800 S",
+      "Turismo Veloce 800",
+      "Turismo Veloce Lusso",
+      "Turismo Veloce Lusso SCS",
+      "Turismo Veloce RC"
+    ],
+    "Bridgestone 7S": [
+      "7S"
+    ],
+    "Bridgestone 8A": [
+      "8A"
+    ],
+    "Bridgestone 50 Deluxe": [
+      "50 Deluxe"
+    ],
+    "Bridgestone 50 Sport": [
+      "50 Sport"
+    ],
+    "Bridgestone 50 MK II": [
+      "50 MK II"
+    ],
+    "Bridgestone 50 Hurricane": [
+      "50 Hurricane"
+    ],
+    "Bridgestone 50 GP": [
+      "50 GP Racer"
+    ],
+    "Bridgestone 60 Sport": [
+      "60 Sport"
+    ],
+    "Bridgestone 60 Racer": [
+      "60 GP Racer"
+    ],
+    "Bridgestone 60 Trail": [
+      "60 Trail"
+    ],
+    "Bridgestone 90 Sport": [
+      "90 Sport"
+    ],
+    "Bridgestone BS90 Deluxe": [
+      "BS90 Deluxe"
+    ],
+    "Bridgestone BS90 Trail": [
+      "BS90 Trail"
+    ],
+    "Bridgestone 100 Sport": [
+      "100 Sport"
+    ],
+    "Bridgestone 100 TMX": [
+      "100 TMX"
+    ],
+    "Bridgestone 100 GP": [
+      "100 GP Racer"
+    ],
+    "Bridgestone 100 Trail": [
+      "100 Trail"
+    ],
+    "Bridgestone 125 TMX": [
+      "125 TMX"
+    ],
+    "Bridgestone 175 Dual Twin": [
+      "175 DT (Dual Twin)"
+    ],
+    "Bridgestone 175 Hurricane Scrambler": [
+      "175 HS"
+    ],
+    "Bridgestone 175 TMX": [
+      "175 TMX"
+    ],
+    "Bridgestone 175 SR": [
+      "175 SR (Scrambler)"
+    ],
+    "Bridgestone BS175": [
+      "BS175"
+    ],
+    "Bridgestone 175 GP": [
+      "175 GP Racer"
+    ],
+    "Bridgestone 200 Dual Twin": [
+      "200 DT"
+    ],
+    "Bridgestone 250 Racer Prototype": [
+      "250 GP Prototype"
+    ],
+    "Bridgestone 350 GTO": [
+      "350 GTO"
+    ],
+    "Bridgestone 350 GTR": [
+      "350 GTR"
+    ],
+    "Bridgestone 350 GP": [
+      "350 GP Racer"
+    ],
+    "Bridgestone BS350": [
+      "BS350 (Tourer)"
+    ],
+    "Honda Super Cub": [
+      "C100 / C50 / C125"
+    ],
+    "Honda Dream 50": [
+      "Dream 50 (AC15)"
+    ],
+    "Honda Benly": [
+      "Benly 50 / 90 / 110"
+    ],
+    "Honda Monkey": [
+      "Z50 / Monkey 125"
+    ],
+    "Honda Dax": [
+      "ST50 / ST70 / ST125"
+    ],
+    "Honda Grom": [
+      "MSX125 / Grom 125"
+    ],
+    "Honda CBR125R": [
+      "CBR125R"
+    ],
+    "Honda CB223S": [
+      "CB223S"
+    ],
+    "Honda GB250 Clubman": [
+      "GB250"
+    ],
+    "Honda Rebel 250": [
+      "Rebel 250 (CMX250 / CMX300)"
+    ],
+    "Honda CBR250R": [
+      "CBR250R / CBR250RR"
+    ],
+    "Honda Dream CB250": [
+      "CB250 (K0–K4)"
+    ],
+    "Honda CB350": [
+      "CB350 / H’ness CB350"
+    ],
+    "Honda CB400 Super Four": [
+      "CB400SF / CB400SB"
+    ],
+    "Honda CBR400R": [
+      "CBR400R"
+    ],
+    "Honda CB500X": [
+      "CB500X / CB500F"
+    ],
+    "Honda CB650R": [
+      "CB650R / CBR650R"
+    ],
+    "Honda NT1100": [
+      "NT1100"
+    ],
+    "Honda CB1100": [
+      "CB1100 (EX / RS)"
+    ],
+    "Honda CB1300 Super Four": [
+      "CB1300SF / CB1300SB"
+    ],
+    "Honda Gold Wing": [
+      "GL1800 Gold Wing / Tour"
+    ],
+    "Honda DN-01": [
+      "DN-01"
+    ],
+    "Honda Valkyrie": [
+      "GL1500C / F6C"
+    ],
+    "Honda NR750": [
+      "NR750 (oval piston)"
+    ],
+    "Honda RC213V-S": [
+      "RC213V-S (MotoGP replica)"
+    ],
+    "Kawasaki": [
+      "ER-6n",
+      "KLR650",
+      "KLX 230R",
+      "KX 100",
+      "KX 250",
+      "KX 450",
+      "Ninja 300",
+      "Ninja 400",
+      "Ninja 650",
+      "Ninja H2",
+      "Ninja H2R",
+      "Ninja ZX-10R",
+      "Ninja ZX-25R",
+      "Ninja ZX-4R",
+      "Ninja ZX-6R",
+      "Versys 1000",
+      "Versys 650",
+      "Versys-X 300",
+      "Vulcan S",
+      "W175",
+      "W230",
+      "W800",
+      "Z H2",
+      "Z H2 SE",
+      "Z1300",
+      "Z250",
+      "Z400",
+      "Z650",
+      "Z650RS",
+      "Z900",
+      "Z900RS"
+    ],
+    "Lilac ML": [
+      "ML (prototype / LA)"
+    ],
+    "Lilac LB": [
+      "LB (150production)"
+    ],
+    "Lilac KD": [
+      "KD (150 commuter)"
+    ],
+    "Lilac KH": [
+      "KH"
+    ],
+    "Lilac SY": [
+      "SY"
+    ],
+    "Lilac UY": [
+      "UY"
+    ],
+    "Lilac CS-28": [
+      "CS-28"
+    ],
+    "Lilac LS-18": [
+      "LS-18"
+    ],
+    "Lilac ST": [
+      "ST"
+    ],
+    "Lilac Magnum": [
+      "Magnum"
+    ],
+    "Meguro A": [
+      "A (Early single cylinder)"
+    ],
+    "Meguro B": [
+      "B (Post-war commuter)"
+    ],
+    "Meguro C": [
+      "C (Commercial)"
+    ],
+    "Meguro Z97": [
+      "Z97"
+    ],
+    "Meguro Z98": [
+      "Z98"
+    ],
+    "Meguro Z1": [
+      "Z1"
+    ],
+    "Meguro Z2": [
+      "Z2"
+    ],
+    "Meguro Z3": [
+      "Z3"
+    ],
+    "Meguro Z4": [
+      "Z4"
+    ],
+    "Meguro Z5": [
+      "Z5"
+    ],
+    "Meguro Z6": [
+      "Z6"
+    ],
+    "Meguro Z7 Stamina": [
+      "Z7"
+    ],
+    "Meguro K1 Stamina": [
+      "K1 Stamina"
+    ],
+    "Meguro K2 Stamina": [
+      "K2 Stamina"
+    ],
+    "Meguro K3": [
+      "K3 (modern revival)"
+    ],
+    "Meguro S": [
+      "S (Original single)"
+    ],
+    "Meguro S2 Junior": [
+      "S2 Junior"
+    ],
+    "Meguro S3 Junior": [
+      "S3 Junior"
+    ],
+    "Meguro S4 Junior": [
+      "S4 Junior"
+    ],
+    "Meguro S5 Junior": [
+      "S5 Junior"
+    ],
+    "Meguro T1 Senior": [
+      "T1 Senior"
+    ],
+    "Meguro T2 Senior": [
+      "T2 Senior"
+    ],
+    "Meguro J1 Junior": [
+      "J1 Junior"
+    ],
+    "Meguro J2 Junior": [
+      "J2 Junior"
+    ],
+    "Meguro J3 / J3A": [
+      "J3 / J3A"
+    ],
+    "Meguro Y2 Rex": [
+      "Y2 Rex"
+    ],
+    "Meguro R1 Police": [
+      "R1 (Police Special)"
+    ],
+    "Meguro X1": [
+      "X1 (Prototype racer)"
+    ],
+    "Meguro S1": [
+      "S1 (modern 250 retro)"
+    ],
+    "Suzuki Power Free": [
+      "Power Free (Suzuki's first motorized bicycle, 1952)"
+    ],
+    "Suzuki Colleda": [
+      "Colleda CO / ST / TT (early 1950s classics)"
+    ],
+    "Suzuki T20": [
+      "T20 Super Six"
+    ],
+    "Suzuki GT250": [
+      "GT250 (2-stroke twin)"
+    ],
+    "Suzuki GT380": [
+      "GT380 (2-stroke triple)"
+    ],
+    "Suzuki GT550": [
+      "GT550 (2-stroke triple)"
+    ],
+    "Suzuki GT750": [
+      "GT750 (Water Buffalo)"
+    ],
+    "Suzuki GS400": [
+      "GS400 (parallel twin)"
+    ],
+    "Suzuki GS750": [
+      "GS750 (inline-four)"
+    ],
+    "Suzuki GS1000": [
+      "GS1000 (classic inline-four)"
+    ],
+    "Suzuki GSX1100S Katana": [
+      "GSX1100S Katana (1981 original)"
+    ],
+    "Suzuki GSX-S1000": [
+      "GSX-S1000 (modern streetfighter)"
+    ],
+    "Suzuki GSX-R750": [
+      "GSX-R750 (JDM supersport)"
+    ],
+    "Suzuki GSX-R600": [
+      "GSX-R600 (600 sport)"
+    ],
+    "Suzuki GSX-R125": [
+      "GSX-R125 (Japan spec small sport)"
+    ],
+    "Suzuki GSX250R": [
+      "GSX250R (Japan domestic twin)"
+    ],
+    "Suzuki SV650": [
+      "SV650 / SV650X"
+    ],
+    "Suzuki Gladius 650": [
+      "Gladius 650 (SFV650)"
+    ],
+    "Suzuki V-Strom 250": [
+      "V-Strom 250 / SX"
+    ],
+    "Suzuki V-Strom 650": [
+      "V-Strom 650 / 650XT"
+    ],
+    "Suzuki V-Strom 800DE": [
+      "V-Strom 800DE (parallel twin)"
+    ],
+    "Suzuki V-Strom 1050": [
+      "V-Strom 1050 / DE"
+    ],
+    "Suzuki Burgman 200": [
+      "Burgman 200 (AN200)"
+    ],
+    "Suzuki Burgman 400": [
+      "Burgman 400 (AN400)"
+    ],
+    "Suzuki Address": [
+      "Address 110 / 125 (scooter)"
+    ],
+    "Suzuki GSX-S125": [
+      "GSX-S125 (naked small sport)"
+    ],
+    "Suzuki Hustler 90": [
+      "Hustler 90 (trail bike)"
+    ],
+    "Suzuki DR-Z400S": [
+      "DR-Z400S (dual sport)"
+    ],
+    "Suzuki RM-Z450": [
+      "RM-Z450 (motocross)"
+    ],
+    "Tohatsu Runpet": [
+      "Runpet (50 moped series)"
+    ],
+    "Tohatsu Runpet Sports": [
+      "Runpet Sports (50)"
+    ],
+    "Tohatsu Runpet Super": [
+      "Runpet Super (high output 50)"
+    ],
+    "Tohatsu Runpet Deluxe": [
+      "Runpet Deluxe (50commuter)"
+    ],
+    "Tohatsu Runpet Sport 60": [
+      "Runpet Sport 60 (export version)"
+    ],
+    "Tohatsu Runpet Trail": [
+      "Runpet Trail (off-road version)"
+    ],
+    "Tohatsu Runpet Super Sports": [
+      "Runpet Super Sports (60racer)"
+    ],
+    "Tohatsu 60 Super Sports": [
+      "60 Super Sports"
+    ],
+    "Tohatsu 90 Sport": [
+      "90 Sport (commuter)"
+    ],
+    "Tohatsu 125 Runpet": [
+      "125 Runpet"
+    ],
+    "Tohatsu 125 Racer": [
+      "125 Racer (factory GP bike)"
+    ],
+    "Tohatsu 150 Sport": [
+      "150 Sport"
+    ],
+    "Tohatsu 150 Deluxe": [
+      "150 Deluxe (touring )"
+    ],
+    "Tohatsu 175 Twin": [
+      "175 Twin (OHV parallel twin)"
+    ],
+    "Tohatsu 200 Racer": [
+      "200 Racer (race prototype)"
+    ],
+    "Tohatsu 250 Twin": [
+      "250 Twin (two-stroke road bike)"
+    ],
+    "Tohatsu 250 Racer": [
+      "250 Racer (GP competition motorcycle)"
+    ],
+    "Tohatsu 250 Sports Twin": [
+      "250 Sports Twin (road sport variant)"
+    ],
+    "Tohatsu 250 Runpet": [
+      "250 Runpet"
+    ],
+    "Tohatsu 125 Scooter": [
+      "125 Scooter (urban commuter)"
+    ],
+    "Tohatsu 175 Scooter": [
+      "175 Scooter (export)"
+    ],
+    "Tohatsu 50 GP": [
+      "50 GP (factory race bike)"
+    ],
+    "Tohatsu 125 GP": [
+      "125 GP"
+    ],
+    "Tohatsu 200 GP": [
+      "200 GP"
+    ],
+    "Tohatsu 250 GP": [
+      "250 GP (racing motorcycle)"
+    ],
+    "Tohatsu 125 Sport": [
+      "125 Sport"
+    ],
+    "Tohatsu 60 Runpet Racer": [
+      "60 Runpet Racer (export competition)"
+    ],
+    "Tohatsu 250 Clubman": [
+      "250 Clubman (touring type)"
+    ],
+    "Tohatsu 200 Clubman": [
+      "200 Clubman (road sports)"
+    ],
+    "Yamaha YA-1": [
+      "YA-1 (Red Dragonfly, first Yamaha bike)"
+    ],
+    "Yamaha YDS-1": [
+      "YDS-1 (Classic 2-stroke twin)"
+    ],
+    "Yamaha RD350": [
+      "RD350 (Classic 2-stroke performance)"
+    ],
+    "Yamaha SR400": [
+      "SR400 (JDM retro thumper)"
+    ],
+    "Yamaha SR500": [
+      "SR500 (classic 499 single)"
+    ],
+    "Yamaha MT-07": [
+      "MT-07 (JDM 689 parallel twin)"
+    ],
+    "Yamaha XSR700": [
+      "XSR700 (retro 689 twin)"
+    ],
+    "Yamaha XSR900": [
+      "XSR900 (retro 890 triple)"
+    ],
+    "Yamaha YZF-R15": [
+      "YZF-R15 V4 (Japan spec 155 single)"
+    ],
+    "Yamaha YZF-R25": [
+      "YZF-R25 (Japan domestic )"
+    ],
+    "Yamaha YZF-R3": [
+      "YZF-R3 (321twin)"
+    ],
+    "Yamaha Tracer 700": [
+      "Tracer 700 (sport touring)"
+    ],
+    "Yamaha Tracer 900": [
+      "Tracer 900 / 9 GT"
+    ],
+    "Yamaha FJR1300": [
+      "FJR1300 (JDM sport tourer)"
+    ],
+    "Yamaha XT250 Serow": [
+      "Serow 250 (dual-purpose trail bike)"
+    ],
+    "Yamaha Tenere 700": [
+      "Tenere 700 (adventure twin)"
+    ],
+    "Yamaha Bolt": [
+      "Bolt / XV950 (cruiser)"
+    ],
+    "Yamaha VMAX": [
+      "VMAX (1679 muscle bike)"
+    ],
+    "Yamaha Majesty": [
+      "Majesty 250 / 400 (maxi-scooter)"
+    ],
+    "Yamaha NMAX": [
+      "NMAX 125 / 155"
+    ],
+    "Yamaha Jog": [
+      "Jog 50 (classic scooter)"
+    ],
+    "Dnepr": [
+      "K-650",
+      "K-750",
+      "M-72",
+      "MT-10/36",
+      "MT-11",
+      "MT-9",
+      "MW 750"
+    ],
+    "IMZ-Ural": [
+      "8.103-10 Classic",
+      "8.123 Solo “Classic”",
+      "8.1234 Voyage",
+      "M-67.36",
+      "M-72K",
+      "M70 Anniversary Edition"
+    ],
+    "Ural": [
+      "Limited Edition Arctic",
+      "Limited Edition Gaucho Rambler",
+      "Limited Edition MIR",
+      "M70 Solo",
+      "Ranger",
+      "Sportsman",
+      "Wolf Solo"
+    ],
+    "Daelim": [
+      "Daystar 125",
+      "Daystar 250",
+      "Freewing 125",
+      "RoadSport 125",
+      "RoadSport 250",
+      "Roadwin 125",
+      "Roadwin 250R FI",
+      "VJ 125 Roadwin",
+      "VJF 250 Roadwin"
+    ],
+    "Hyosung": [
+      "GD250N",
+      "GT125",
+      "GT250",
+      "GT650",
+      "GV250",
+      "GV300S",
+      "GV650",
+      "RX125"
+    ],
+    "Bultaco": [
+      "Astro 250",
+      "Astro 360",
+      "El Bandido 360",
+      "Frontera 250",
+      "Frontera 370",
+      "Mercurio 200",
+      "Streaker 125",
+      "Streaker 75"
+    ],
+    "Derbi": [
+      "Atlantis City 50",
+      "Cross City 125",
+      "GPR 125 4T 4V",
+      "Mulhacén 125",
+      "Rambla 300i",
+      "Senda DRD 125 SM",
+      "Senda R 125",
+      "Variant Start"
+    ],
+    "GASGAS": [
+      "EC 300",
+      "EC 350F",
+      "ES 700",
+      "EX 450F",
+      "MC 125",
+      "MC 250",
+      "MC 50",
+      "SM 700",
+      "TXT GP 300"
+    ],
+    "OSSA": [
+      "250 TE",
+      "Explorer 350",
+      "Phantom 125",
+      "Pluma 230",
+      "Stiletto 250",
+      "Super Pioneer 250",
+      "Yankee 500"
+    ],
+    "Rieju": [
+      "Aventura 500",
+      "Century 125",
+      "E-City",
+      "MR Ranger 200",
+      "MR Ranger 300",
+      "NKD 50",
+      "RS3 125",
+      "Tango 125i"
+    ],
+    "Quadro Vehicles": [
+      "350D",
+      "350S",
+      "4 / Quadro4",
+      "Nuvion",
+      "QV3",
+      "Qooder (399  version)",
+      "Quadro3 / QV3",
+      "Quadro4 / Qooder",
+      "X Qooder",
+      "eQooder"
+    ],
+    "Quantya": [
+      "E120",
+      "E500",
+      "E550 LXT",
+      "EVO1 Strada",
+      "EVO1 Supermoto",
+      "EVO1 Track",
+      "Eco1",
+      "MMX Junior",
+      "vRone"
+    ],
+    "Kymco": [
+      "AK550",
+      "Downtown 200i",
+      "K Pipe 125",
+      "Like 150",
+      "Quannon 125",
+      "Super 9",
+      "Venox 250",
+      "X-Town 300i",
+      "Xciting 500 Ri"
+    ],
+    "SYM": [
+      "ADX 125",
+      "Cruisym 300",
+      "Jet 14 Evo 125",
+      "Maxsym TL 508",
+      "Symphony ST 125",
+      "Symphony ST 200",
+      "Symphony ST 50"
+    ],
+    "GPX Racing": [
+      "Demon 150GR",
+      "Demon GR200R",
+      "Drone 150",
+      "GTM 250R",
+      "Gentleman 200",
+      "Legend 150",
+      "Legend 250 Twin III",
+      "Mad 300",
+      "Popz 110",
+      "Popz 125",
+      "Raptor 180"
+    ],
+    "Stallions": [
+      "CT 170i Bobber",
+      "Makina 170i Cafe",
+      "Percheron 450",
+      "SM 170i",
+      "SM 170i+",
+      "SM 250",
+      "SM 400",
+      "SM150 B&W"
+    ],
+    "Triumph": [
+      "Tiger 1050",
+      "Tiger 1200 GT Pro",
+      "Tiger 1200 Rally Explorer",
+      "Tiger 800 XC",
+      "Tiger 800 XR",
+      "Tiger 900 GT",
+      "Tiger 900 Rally Pro",
+      "Tiger Sport 660",
+      "Tiger Sport 800"
+    ],
+    "AJS": [
+      "7R",
+      "7R3",
+      "Bobber 125",
+      "Cadwell 125",
+      "Cadwell 400",
+      "Cadwell Clubman",
+      "E95 Porcupine Replica",
+      "Enduro 250",
+      "Highway Star 400",
+      "Interceptor 250",
+      "JS125 Super",
+      "JS125-E5",
+      "JSM 50",
+      "Model 14",
+      "Model 16",
+      "Model 16M",
+      "Model 18",
+      "Model 18S",
+      "Model 20",
+      "Model 31",
+      "Model 31 CSR",
+      "Model 33",
+      "Model 33 CSR",
+      "Model 9",
+      "Model D",
+      "Model E",
+      "Model G8",
+      "Model K7",
+      "Model S3 V-twin",
+      "Modena 125",
+      "Porcupine E90",
+      "Porcupine E95",
+      "RX 125",
+      "Regal Raptor 350",
+      "Silver Streak",
+      "Stormer 250",
+      "Stormer 370",
+      "Stormer 410",
+      "Tempest Roadster 125",
+      "Tempest Scrambler 125",
+      "Trail 90",
+      "Y4 Trials",
+      "Y5 Enduro"
+    ],
+    "Ariel": [
+      "Ace",
+      "Ace R",
+      "Square Four 1000",
+      "Square Four 500",
+      "Square Four 600"
+    ],
+    "LiveWire": [
+      "LiveWire ONE",
+      "LiveWire ONE Launch Edition",
+      "Project LiveWire Prototype",
+      "S2 Adventure",
+      "S2 Del Mar",
+      "S2 Del Mar Launch Edition",
+      "S2 MX Concept",
+      "S2 Mulholland",
+      "S3 Project",
+      "S4 Cruiser (rumored)"
+    ],
+    "Motus": [
+      "MST",
+      "MST Barber Museum Edition",
+      "MST Founders Edition",
+      "MST KMV4 Prototype",
+      "MST Laguna Seca Edition",
+      "MST Performance Edition",
+      "MST Silverstone Edition",
+      "MST Special Ops Edition",
+      "MST Sport",
+      "MST-R",
+      "MST-R Carbon Edition",
+      "MST-R GP",
+      "MST-R Launch Edition"
+    ]
+  },
+  "years": [
+    "2024",
+    "2023",
+    "2022",
+    "2021",
+    "2020",
+    "2019",
+    "2018",
+    "2017",
+    "2016",
+    "2015",
+    "2014",
+    "2013",
+    "2012",
+    "2011",
+    "2010",
+    "2009",
+    "2008",
+    "2007",
+    "2006",
+    "2005",
+    "2004",
+    "2003",
+    "2002",
+    "2001",
+    "2000",
+    "1999",
+    "1998",
+    "1997",
+    "1996",
+    "1995",
+    "1994",
+    "1993",
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "colors": [
+    "Black",
+    "White",
+    "Red",
+    "Blue",
+    "Silver",
+    "Grey",
+    "Yellow",
+    "Orange",
+    "Green",
+    "Purple",
+    "Brown"
+  ],
+  "fuelTypes": [
+    "Petrol",
+    "Electric"
+  ],
+  "transmissionTypes": [
+    "Manual",
+    "Automatic"
+  ]
+}
+  

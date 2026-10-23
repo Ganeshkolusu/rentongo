@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "",
+        "",
+        "all",
+        "editor.action.accessibilityHelp"
+    ],
+    "chat.emptyState.history.enabled": true
+}

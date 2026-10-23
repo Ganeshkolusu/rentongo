@@ -1,0 +1,2 @@
+// Vehicle type definitions will be implemented here
+export {};
